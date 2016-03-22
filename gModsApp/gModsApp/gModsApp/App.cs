@@ -23,8 +23,6 @@ namespace gModsApp
                             Text = "Welcome to Xamarin Forms!"
                         }
                     }
-                    //jojo -Kevin
-                    //Kevin2
                 }
             };
         }
