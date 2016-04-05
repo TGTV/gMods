@@ -36,7 +36,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="pages\Einstellungen.cs" />
     <Compile Include="pages\MainPage.cs" />
+    <Compile Include="pages\Menu\MenuCell.cs" />
+    <Compile Include="pages\Menu\MenuItem.cs" />
+    <Compile Include="pages\Menu\MenuListData.cs" />
+    <Compile Include="pages\Menu\MenuListView.cs" />
+    <Compile Include="pages\Menu\MenuPage.cs" />
+    <Compile Include="pages\Menu\RootPage.cs" />
+    <Compile Include="pages\Mods.cs" />
+    <Compile Include="pages\News.cs" />
+    <Compile Include="pages\start.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -54,6 +64,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="Source\Logo-gMods-1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.1.3.3.6323\build\portable-win+net45+wp80+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
