@@ -18,3 +18,5 @@ H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\bin\Debug\Xamarin.Forms.Xa
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\obj\Debug\gModsApp.csprojResolveAssemblyReference.cache
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\obj\Debug\gModsApp.dll
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\obj\Debug\gModsApp.pdb
+H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\obj\Debug\gModsApp.dll.mdb
+H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp\bin\Debug\gModsApp.dll.mdb

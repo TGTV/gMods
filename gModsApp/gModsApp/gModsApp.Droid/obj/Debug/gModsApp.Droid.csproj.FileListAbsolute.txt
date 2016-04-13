@@ -47,6 +47,5 @@ H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\obj\Debug\res\drawab
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\obj\Debug\R.cs.flag
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\obj\Debug\uploadflags.txt
-H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\bin\Debug\gModsApp.dll.mdb
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\obj\Debug\gModsApp.Droid.dll.mdb
 H:\Youtube\gMods\App\gMods\gModsApp\gModsApp\gModsApp.Droid\bin\Debug\gModsApp.Droid.dll.mdb
